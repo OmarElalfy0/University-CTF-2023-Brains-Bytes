@@ -1,4 +1,4 @@
-#CHALLENGE NAME: One Step Closer#
+# CHALLENGE NAME: One Step Closer #
 <br /><br /><br /><br />
 "Tasked with defending the antidote's research, a diverse group of students united against a relentless cyber onslaught. As codes clashed and defenses were tested, their collective effort stood as humanity's beacon, inching closer to safeguarding the research for the cure with every thwarted attack. A stealthy attack might have penetrated their defenses. Along with the Hackster's University students, analyze the provided file so you can detect this attack in the future. <br /><br />
 <br /><br /><br /><br />
