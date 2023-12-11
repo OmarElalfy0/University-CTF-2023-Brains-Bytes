@@ -238,7 +238,7 @@ One of them is base64.txt and remaining_content.txt which is basically an image.
 Now I have the encoded data in the base64.txt file.
 I will decode it to investigate its content usnig cyberchef.
 
-![Alt text](./decode_base64.png.png "decode base64.txt")
+![Alt text](./decode_base64.png "decode base64.txt")
 
 I starts with MZ, header of a DOS executable. In the context of DOS and Windows executable files, "MZ" refers to the initials of Mark Zbikowski, one of the early developers at Microsoft. The "MZ" header is followed by the DOS executable program, and it indicates the beginning of a DOS executable file. The MZ header is part of the file structure that helps the operating system identify and execute the program.
 
@@ -247,7 +247,7 @@ I will save the output into a file to investigate its content.
 
 At the end of the file I can see the flag ...
 
-![Alt text](./flag.png.png "The flag")
+![Alt text](./flag.png "The flag")
 
 
 ```HTB{0n3_St3p_cl0s3r_t0_th3_cur3}```
