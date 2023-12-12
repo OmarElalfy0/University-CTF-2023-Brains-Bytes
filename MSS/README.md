@@ -6,13 +6,17 @@ The military possesses a server containing crucial data about the virus and pote
 
 This challenge is about understanding the code and finding the logical weakness that led to getting the key and decrypting the encrypted data.<br />
 
-Here is the main page of the program <br />
+Here is the main page of the program 
+<br />
 
 ![Alt text](./mainpage.png "main page")
-<br />
-After analyzing the code, I try to simplify the algorithm to understand what is happening. <br />
 
-![Alt text](./algorithm.png "algorithm")
+<br />
+After analyzing the code, I try to simplify the algorithm to understand what is happening. 
+<br />
+
+![Alt text](./algorithm.jpeg "algorithm")
+
 <br />
 As written here, the program creates a coeffs array that contains the key and 30 random numbers.<br />
 The user will send x to the program, and it will give him the sum using this algorithm.<br />
@@ -21,7 +25,7 @@ We are dealing with server using json format and there are three options: <br />
 - Get your share ```{"command": "get_share","x": 123}``` here I can change x
 - Encrypt flag ```{"command": "encrypt_flag"}```
 - Exit no need to exit
-<br />
+
 
 ![Alt text](./trycommands.png "try different command")
 
