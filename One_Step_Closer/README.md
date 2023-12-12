@@ -144,10 +144,8 @@ $method=$type.GetMethod('VAI').Invoke($null,[object[]]('ZDVkZmYyMWIxN2VlLTFmNDgt
 - Convert the downloaded image data to text using UTF-8 encoding
 ```$imageText=[System.Text.Encoding]::UTF8.GetString($imageBytes);```
 - Define start and end flags
-```
-$startFlag='<<BASE64_START>>';
-$endFlag='<<BASE64_END>>';
-```
+```$startFlag='<<BASE64_START>>';```
+```$endFlag='<<BASE64_END>>';```
 - Find the index of the start flag in the image text
 ```$startIndex=$imageText.IndexOf($startFlag);```
 - Find the index of the end flag in the image text
