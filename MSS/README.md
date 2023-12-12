@@ -38,6 +38,8 @@ But the key will multiple with 0^0, and what is 0^0 in Python?<br />
 0^0 = 1 (Math people, conflict with Python, I want to find my flag)<br />
 Which means that if we give the program x = 0, we will get the key in decimal format.<br />
 
+![Alt text](./zeropowerzero.png "Zero to the power of zero in python")
+
 ![Alt text](./key.png "key")
 
 <br />
