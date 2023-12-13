@@ -5,6 +5,9 @@ The military possesses a server containing crucial data about the virus and pote
 <br /><br /><br />
 
 This challenge is about understanding the code and finding the logical weakness that led to getting the key and decrypting the encrypted data.<br />
+Here is the Code ![Alt text](./server.py "The server code")
+[The server code](./server.py)
+
 
 Here is the main page of the program 
 <br /><br />
